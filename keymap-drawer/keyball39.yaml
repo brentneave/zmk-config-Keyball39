@@ -100,7 +100,7 @@ layers:
   - {t: '-', h: RGUI, s: _}
   - {t: '[', h: '$$mdi:apple-keyboard-control$$', s: '{'}
   - {t: ']', h: '$$mdi:apple-keyboard-option$$', s: '}'}
-  - {t: ;, h: '$$mdi:apple-keyboard-shift$$', s: ':'}
+  - {t: Sft+;, h: '$$mdi:apple-keyboard-shift$$', s: 'Sft+:'}
   - {t: '-', s: _}
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}

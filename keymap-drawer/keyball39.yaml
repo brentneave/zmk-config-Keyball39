@@ -44,7 +44,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - Sft+Gui+$$mdi:arrow-left-bold$$
   - Sft+Ctl+Gui+$$mdi:arrow-left-bold$$
-  - '4'
+  - {t: '4', s: $}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - HOME
@@ -95,7 +95,7 @@ layers:
   - {t: '4', h: '$$mdi:apple-keyboard-control$$', s: $}
   - {t: '5', h: '$$mdi:apple-keyboard-option$$', s: '%'}
   - {t: '6', h: LGUI, s: ^}
-  - MULTIPLY
+  - '*'
   - _
   - {t: '-', h: RGUI, s: _}
   - {t: '[', h: '$$mdi:apple-keyboard-control$$', s: '{'}
@@ -105,7 +105,7 @@ layers:
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
   - {t: '3', s: '#'}
-  - DIVIDE
+  - {t: /, s: '?'}
   - '|'
   - {t: \, s: '|'}
   - '{'

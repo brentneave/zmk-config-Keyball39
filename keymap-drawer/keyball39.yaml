@@ -88,8 +88,8 @@ layers:
   - '%'
   - {t: '`', s: '~'}
   - '~'
-  - KP LPAR
-  - KP RPAR
+  - (
+  - )
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: +, h: '$$mdi:apple-keyboard-shift$$'}
   - {t: '4', h: '$$mdi:apple-keyboard-control$$', s: $}

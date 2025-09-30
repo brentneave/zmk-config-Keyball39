@@ -1,0 +1,39 @@
+# ZMK Build System
+.west/
+build/
+zmk/
+zephyr/
+modules/
+zmk-pmw3610-driver/
+
+# Zephyr SDK
+zephyr-sdk-*/
+*.tar.xz
+
+# Build artifacts
+*.uf2
+*.hex
+*.elf
+*.bin
+
+# West workspace files
+.west/config
+
+# Python virtual environments (if using)
+.venv/
+venv/
+
+# IDE/Editor files
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp

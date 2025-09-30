@@ -60,7 +60,7 @@ layers:
   - {t: '$$mdi:arrow-left-bold$$', h: RGUI}
   - {t: '$$mdi:arrow-up-bold$$', h: '$$mdi:apple-keyboard-control$$'}
   - {t: '$$mdi:arrow-down-bold$$', h: '$$mdi:apple-keyboard-option$$'}
-  - {t: ;, h: '$$mdi:apple-keyboard-shift$$', s: ':'}
+  - {t: '$$mdi:arrow-right-bold$$', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: '$$mdi:transfer$$', type: trans}
   - PREV
   - PP
